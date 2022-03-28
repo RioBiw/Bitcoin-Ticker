@@ -2,7 +2,7 @@
 
 # bitcoin_ticker
 
-This project created by Rizo Giyoev for practicing his skill.
+This project created by Rizo Giyoev for practicing his skill. (Flutter) (Dart) (RioBiw)
 ## His Goal
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
